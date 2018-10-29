@@ -1,0 +1,18 @@
+package com.aquarius;
+
+import java.util.ArrayList;
+
+public class StudentSearch {
+	public static void main(String args[]) {
+		
+	}
+	
+	
+	
+	public void studentAttendance(String name) {
+		ArrayList<String> attendance = new ArrayList<>();
+		attendance.add(name)
+	}
+	
+	
+}
